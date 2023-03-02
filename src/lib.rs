@@ -97,7 +97,7 @@ use reqwest::{Url, Result as ApiResult, Client, Response};
 
 // constants
 
-static FORECAST_URL: &'static str = "https://api.darksky.net/forecast";
+static FORECAST_URL: &'static str = "https://api.pirateweather.net/forecast";
 static EXCLUDE: &'static str = "exclude";
 static EXTEND: &'static str = "extend";
 static LANG: &'static str = "lang";
